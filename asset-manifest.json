@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sabari-portfolio/static/css/main.6e46bdaa.css",
+    "main.js": "/sabari-portfolio/static/js/main.25a1837b.js",
+    "static/media/sabari3.png": "/sabari-portfolio/static/media/sabari3.642d829f163644417b8b.png",
+    "static/media/project1.png": "/sabari-portfolio/static/media/project1.7e1268468f32c2ab77c8.png",
+    "static/media/project2.png": "/sabari-portfolio/static/media/project2.516515be0b40a6e71e21.png",
+    "static/media/react.png": "/sabari-portfolio/static/media/react.d167a5ddef41d2536fa4.png",
+    "static/media/mongodp.png": "/sabari-portfolio/static/media/mongodp.5b3b1548fc3d3ab2bcbf.png",
+    "static/media/contact1.png": "/sabari-portfolio/static/media/contact1.da012fad5caac1ea09e4.png",
+    "static/media/web.jpg": "/sabari-portfolio/static/media/web.327c99f71d2d422451ee.jpg",
+    "static/media/Nodejs.png": "/sabari-portfolio/static/media/Nodejs.7c94c770dd462ef14ec9.png",
+    "static/media/figma.png": "/sabari-portfolio/static/media/figma.3c93a4bb3e326628d6c6.png",
+    "static/media/workind-boy.png": "/sabari-portfolio/static/media/workind-boy.c5325f52b5be329995a5.png",
+    "static/media/css.png": "/sabari-portfolio/static/media/css.bc75ccc78e3bf74f8aed.png",
+    "static/media/js.png": "/sabari-portfolio/static/media/js.b59d7a18a2afccde7ad0.png",
+    "static/media/HTML.png": "/sabari-portfolio/static/media/HTML.7ce256ade95eac32a633.png",
+    "index.html": "/sabari-portfolio/index.html",
+    "main.6e46bdaa.css.map": "/sabari-portfolio/static/css/main.6e46bdaa.css.map",
+    "main.25a1837b.js.map": "/sabari-portfolio/static/js/main.25a1837b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e46bdaa.css",
+    "static/js/main.25a1837b.js"
+  ]
+}
